@@ -1,11 +1,11 @@
 exports.COLOR_THEMES = {
   default: {
     colors: {
-      primary: '#7D7AFF',
-      'gradient-1': '#7d7aff',
-      'gradient-2': '#2121e2',
-      'gradient-3': '#00fff0',
-      'gradient-4': '#8785FF',
+      primary: '#4B5563',        // Muted gray-blue
+      'gradient-1': '#1F2937',   // Dark gray
+      'gradient-2': '#111827',   // Almost black
+      'gradient-3': '#1F2937',   // Dark gray (repeated for subtlety)
+      'gradient-4': '#374151',   // Medium gray
     },
   },
   bejamas: {
